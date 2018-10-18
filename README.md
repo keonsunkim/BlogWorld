@@ -11,6 +11,7 @@ I am KeonSunKim. Graduated Sogang University Bachelor Program with an Economics 
 My course is mainly based for programmers with entry level, and intermediate level understanding of Django. The course was mainly offered to students in CEOS, a startup network for university students in Seoul. This course was offered with the purpose of donating talent, and this is my first attempt at teaching Django 1.11. Be merciful!
 
 The link to the course plan can be found below:
+<br>
 https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps 
 
 
@@ -23,7 +24,9 @@ Lecture 1
 ## Acknowledgments
 
 The materials for this course have been inspired from:
+<br>
 TwoScoops of Django
+<br>
 Simple is Better Blog
 
 Some of the code for this course has been inspired from the following projects:
