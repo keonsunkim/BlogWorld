@@ -4,7 +4,11 @@ This is the BlogWorld Repository created to offer source code access to students
 
 ## About Me
 
-I am KeonSunKim. Graduated Sogang University Bachelor Program with an Economics and Sociology Degree. Currently undergoing my Masters Program in Sogang University Sociology Department. I also work at a startup "Greedy Turtles" in Seoul, Korea as a backend web developer. 
+I am KeonSunKim. Graduated Sogang University Bachelor Program with an Economics and Sociology Degree. 
+<br>
+Currently undergoing my Masters Program in Sogang University Sociology Department. I also work at a startup "Greedy Turtles" in Seoul, Korea as a backend web developer. 
+<br>
+If you want to contact me, contact me through my email given in my course plan.
 
 ## Before Getting Started
 
