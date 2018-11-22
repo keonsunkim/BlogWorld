@@ -21,7 +21,7 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 
 ## Course Materials 
 <br>
-<To be added every week>
+Will be added in a weekly basis
 
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 <br>
