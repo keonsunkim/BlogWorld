@@ -19,7 +19,9 @@ The link to the course plan can be found below:
 https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps 
 
 
-## Course Materials
+## Course Materials 
+<br>
+<To be added every week>
 
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 <br>
