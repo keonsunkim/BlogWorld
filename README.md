@@ -12,7 +12,7 @@ If you want to contact me, contact me through my email given in my course plan.
 
 ## Before Getting Started
 
-My course is mainly based for programmers with entry level, and intermediate level understanding of Django. The course was mainly offered to students in CEOS, a startup network for university students in Seoul. This course was offered with the purpose of donating talent, and this is my first attempt at teaching Django 1.11. Be merciful!
+My course is mainly based for programmers with entry level, and intermediate level understanding of Python. The course was mainly offered to students in CEOS and Sogang University. This course was offered with the purpose of donating talent, and this is my first attempt at teaching Django 1.11. Be merciful!
 
 The link to the course plan can be found below:
 <br>
@@ -26,6 +26,9 @@ Will be added in a weekly basis
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 <br>
 Lecture 1 
+https://docs.google.com/presentation/d/1Cu-GqJvKoDAFUdrOkpdqy8ndvhZGAlrW5w0Z7U6bIso/edit?usp=sharing
+
+
 
 
 ## Acknowledgments
