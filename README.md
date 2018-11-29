@@ -26,6 +26,7 @@ Will be added in a weekly basis
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 <br>
 Lecture 1 
+<br>
 https://docs.google.com/presentation/d/1Cu-GqJvKoDAFUdrOkpdqy8ndvhZGAlrW5w0Z7U6bIso/edit?usp=sharing
 
 
