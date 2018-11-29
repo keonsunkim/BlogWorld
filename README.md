@@ -27,7 +27,7 @@ The source code of this project is best served with my lecture materials. I offe
 <br>
 Lecture 1 
 <br>
-https://docs.google.com/presentation/d/1Cu-GqJvKoDAFUdrOkpdqy8ndvhZGAlrW5w0Z7U6bIso/edit?usp=sharing
+https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing
 
 
 
