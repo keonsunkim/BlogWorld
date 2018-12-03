@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"empl",
+				"empolyment_status"
+			],
+			[
+				"car",
+				"car"
+			],
+			[
+				"steer",
+				"steer_wheel"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"pr",
+				"primary_key"
+			],
+			[
+				"tag_model",
+				"tag_model_class"
+			],
+			[
+				"JSO",
+				"JSONTagFieldDescriptor"
+			],
+			[
+				"new",
+				"new_descriptor"
+			],
+			[
+				"JS",
+				"JSONFIELD"
+			],
+			[
+				"option",
+				"option_from_constants"
+			],
+			[
+				"more",
+				"more_than_one_model"
+			],
+			[
+				"_d",
+				"_modules"
+			],
+			[
+				"T",
+				"TREE"
+			],
+			[
+				"D",
+				"DOUBLE_QUOTE"
+			],
+			[
+				"DOUBLE",
+				"DOUBLE_HASH"
+			],
+			[
+				"CLA",
+				"classification"
+			],
+			[
+				"case",
+				"case_sensitive"
+			],
+			[
+				"for",
+				"force_lowercase"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"Op",
+				"OPTION_DEFAULTS"
+			],
+			[
+				"filter",
+				"filtertag_supertag_coexists"
+			],
+			[
+				"fil",
+				"filtertag_supertag_coexists"
+			],
+			[
+				"OP",
+				"OPTION_DEFAULTS"
+			],
+			[
+				"O",
+				"OPTION_DEFAULTS"
+			],
+			[
+				"tag_",
+				"tag_max_count"
+			],
+			[
+				"supertag",
+				"supertag_list_to_add"
+			],
+			[
+				"super",
+				"supertag_list_to_delete"
+			],
+			[
+				"tag_list_t",
+				"tag_list_to_add"
+			],
+			[
+				"None",
+				"None"
+			],
+			[
+				"tag_list_to",
+				"tag_list_to_delete"
+			],
+			[
+				"tag_list",
+				"tag_list_to_add"
+			],
+			[
+				"save",
+				"saved_instance"
+			],
+			[
+				"json",
+				"json_to_many_to_many"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"Gen",
+				"GeneralPost"
+			],
+			[
+				"list",
+				"lists"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"create",
+				"create_tag_list"
+			],
+			[
+				"pk",
+				"pk_tag_list_to_delete"
+			],
+			[
+				"pk_tag_list_to",
+				"pk_tag_list_to_add"
+			],
+			[
+				"pk_tag",
+				"pk_tag_list_create"
+			],
+			[
+				"dlete",
+				"delete_tag_list"
+			],
+			[
+				"is",
+				"is_supertag"
+			],
+			[
+				"tag",
+				"Tag"
+			],
+			[
+				"tags_i",
+				"tags_in_instance"
+			],
+			[
+				"set",
+				"set"
+			],
+			[
+				"tags_in",
+				"tags_in_field"
+			],
+			[
+				"tag_pk",
+				"tag_pk_list_to_add"
+			],
+			[
+				"tag_pk_l",
+				"tag_pk_list_to_delete"
+			],
+			[
+				"tags",
+				"tags_tracker_filters_for_delete"
+			],
+			[
+				"instance",
+				"instance_tag_json_exists"
+			],
+			[
+				"IS",
+				"IsAuthenticatedOrReadOnly는"
+			],
+			[
+				"M",
+				"ModelSerializer"
+			],
+			[
+				"urls",
+				"URLs"
+			],
+			[
+				"User",
+				"UserFeedListSerializer"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"action_",
+				"action_field_values"
+			],
+			[
+				"action",
+				"action_field_values"
+			],
+			[
+				"U",
+				"UserFeedSerializer"
+			],
+			[
+				"post_",
+				"post_delete"
+			],
+			[
+				"pa",
+				"pagination_class"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"purely_",
+				"purely_tracked_qs"
+			],
+			[
+				"TrackingL",
+				"TrackingListManager"
+			],
+			[
+				"rela",
+				"related_name"
+			],
+			[
+				"star_rating",
+				"star_rating"
+			],
+			[
+				"is_au",
+				"is_authenticated"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"Time",
+				"DateTimeField"
+			],
+			[
+				"star",
+				"star_target_object_id"
+			],
+			[
+				"star_target_",
+				"star_target_content_type"
+			],
+			[
+				"Follo",
+				"Following"
+			],
+			[
+				"related_",
+				"related_query_name"
+			],
+			[
+				"Generic",
+				"GenericForeignKey"
+			],
+			[
+				"Model",
+				"Model"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/keons/dev/blogworldforgit/blogworld"
+	],
+	"file_history":
+	[
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_imports.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_5_classinheritance2.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_classinheritance3.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_3_classbasics3.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_1_classbasics.py",
+		"/C/Users/keons/dev/blogworldforgit/.gitignore",
+		"/C/Users/keons/dev/blogworldforgit/gitignore.txt",
+		"/C/Users/keons/Downloads/eCommerce-master/README.md",
+		"/C/Users/keons/Downloads/Try-Reactjs-master/README.md",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/README.md",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_4_classinheritance.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_2_classbasics2.py",
+		"/C/Users/keons/Downloads/ch3_1_4_classinheritance.py",
+		"/C/Users/keons/AppData/Roaming/Sublime Text 3/Packages/User/aa.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/hh.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/example.py",
+		"/C/Users/keons/Desktop/소스코드용 폴더/preprocess.py",
+		"/C/Users/keons/Downloads/preprocess.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/forjleague/preprocess.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture2/ch2_1_2_function_one.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture2/ch2_1_1_function_basics.py",
+		"/C/Users/keons/Desktop/lecture3/ch3_1_5_classinheritance2.py",
+		"/C/Users/keons/Desktop/lecture3/ch3_1_4_classinheritance.py",
+		"/C/Users/keons/Desktop/lecture2/ch2_1_1_function_basics.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/forjleague/the_file_to_be_run.py",
+		"/C/Users/keons/Downloads/jleaguefunc_재승수정.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/forjleague/__init__.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/forjleague/jleaguefunc.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/forjleague/jleaguefunc,py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/utils.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/__init__.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/admin.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/models.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/descriptors.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/fields.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/constants.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/development.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/serializers.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/repeating.csv",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/secret.json",
+		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/secrets.json",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/models.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/csv_test_for_twitter_without_bmp_change.csv",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/base.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/managers.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/admin.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/views.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/urls.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/serializers.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/views.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/urls.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/options.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/beautisouptwitter.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/serializers.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/urls.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/utils.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/validators.py",
+		"/C/Users/keons/Desktop/2018-2/NLP/csv examples/dummy_data.csv",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Post/permissions.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/forms.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/models.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/admin.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/parser.py",
+		"/C/Users/keons/dev/theorbit/src/.gitignore",
+		"/C/Users/keons/dev/theorbit/src/backend/Tag/models/descriptors.py",
+		"/C/Users/keons/dev/theorbit/src/backend/plather/secrets.json",
+		"/C/Users/keons/dev/plather/.gitignore",
+		"/C/Users/keons/dev/plather/src/backend/Account/migrations/0001_initial.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/utils.py",
+		"/C/Users/keons/dev/plather/src/backend/Post/models.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/__init__.py",
+		"/C/Users/keons/dev/plather/src/backend/Account/models.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/settings.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/models/options.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/models/fields.py",
+		"/C/Users/keons/dev/plather/src/backend/plather/settings/development.py",
+		"/C/Users/keons/dev/plather/src/backend/Tag/constants.py",
+		"/C/Users/keons/dev/plather/src/secret.json",
+		"/C/Users/keons/dev/plather/src/backend/Tag/models/models.py",
+		"/C/Users/keons/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/C/Users/keons/Desktop/재미로 만드는 파이선/Socket/socket.py",
+		"/C/Users/keons/dev/plather/src/backend/manage.py",
+		"/C/Users/keons/dev/questtour/src/backend/Quest/apps.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/models.py",
+		"/C/Users/keons/dev/questtour/src/backend/Quest/utils.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/managers.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/admin.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/forms.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/utils.py",
+		"/C/Users/keons/dev/questtour/src/backend/Account/validators.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/admin.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/forms.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Post/models.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/utils.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/fields.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/wsgi.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_create.html",
+		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_list.html",
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/templates/Ck_editor/widget.html",
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/widgets.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/views.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/validators.py",
+		"/C/Users/keons/Documents/카카오톡 받은 파일/데이터의 외출.pptx",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/managers.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Account/models.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/Tag/models.py",
+		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/settings.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/models.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/managers.py",
+		"/C/Users/keons/Desktop/jisun.py",
+		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/urls.py",
+		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/permissions.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/views.py",
+		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/views.py",
+		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/serializers.py",
+		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/serializers.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/handlers.py",
+		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/models.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/serializers.py",
+		"/C/Users/keons/dev/prototype/src/backend/Account/serializers.py",
+		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/admin.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/urls.py",
+		"/C/Users/keons/dev/prototype/src/backend/Social/gfk.py",
+		"/C/Users/keons/dev/prototype/src/backend/Post/serializers.py",
+		"/C/Users/keons/dev/prototype/src/backend/Post/models.py",
+		"/C/Users/keons/dev/prototype/src/backend/Post/urls.py",
+		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/apps.py",
+		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/pagination.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 168.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 332.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blogworldforgit.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
