@@ -25,9 +25,10 @@ Will be added in a weekly basis
 
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 
-* **Lecture 1** 
+* **Lecture 1**(Basic1 / Setting up and Configuring Django)
 
-    * [Google Slide to Lecture 1](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
+    * [Google Slide to Lecture](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
+    * [Google Slide to Lecture](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
 
 
 
