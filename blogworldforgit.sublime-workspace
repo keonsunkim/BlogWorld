@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
 				"empl",
 				"empolyment_status"
 			],
@@ -311,6 +315,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/blogworld/settings/locals_keonsun.py",
+			"settings":
+			{
+				"buffer_size": 911,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/secret.json",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -368,10 +390,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/keons/dev/blogworldforgit/blogworld"
+		"/C/Users/keons/dev/blogworldforgit/src",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld"
 	],
 	"file_history":
 	[
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/secret.json",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/production.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/__init__.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_keonsun.py",
+		"/C/Users/keons/dev/blogworldforgit/blogworld/blogworld/settings.py",
+		"/C/Users/keons/dev/blogworldforgit/blogworld/Account/models.py",
+		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_imports.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_5_classinheritance2.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_classinheritance3.py",
@@ -411,7 +443,6 @@
 		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/development.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/serializers.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/repeating.csv",
-		"/C/Users/keons/dev/theorbit/backend/theorbit/secret.json",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/secrets.json",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/models.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/csv_test_for_twitter_without_bmp_change.csv",
@@ -491,19 +522,11 @@
 		"/C/Users/keons/dev/prototype/src/backend/Social/handlers.py",
 		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/models.py",
 		"/C/Users/keons/dev/prototype/src/backend/Social/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/Account/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/admin.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/urls.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/gfk.py",
-		"/C/Users/keons/dev/prototype/src/backend/Post/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/Post/models.py",
-		"/C/Users/keons/dev/prototype/src/backend/Post/urls.py",
-		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/apps.py",
-		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/pagination.py"
+		"/C/Users/keons/dev/prototype/src/backend/Account/serializers.py"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 60.0
 	},
 	"find_in_files":
 	{
@@ -534,8 +557,66 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/blogworld/settings/locals_keonsun.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/secret.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -619,8 +700,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 288.0,
+	"side_bar_visible": true,
+	"side_bar_width": 75.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
