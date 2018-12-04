@@ -28,7 +28,7 @@ The source code of this project is best served with my lecture materials. I offe
 * **Lecture 1**(Basic1 / Setting up and Configuring Django)
 
     * [First Google Slide to Lecture 1](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
-    * [Second Google Slide to Lecture 2](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
+    * [Second Google Slide to Lecture 1](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
 
 
 
