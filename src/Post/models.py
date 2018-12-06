@@ -2,9 +2,10 @@ from django.db import models
 from django.conf import settings
 
 from django.utils.translation import ugettext_lazy as _
+
 # for translation
 
-User = settings.AUTH_MODEL
+User = settings.AUTH_USER_MODEL
 
 
 class GeneralPost(models.Model):
