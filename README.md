@@ -34,7 +34,7 @@ The source code of this project is best served with my lecture materials. I offe
 * **Lecture 2** (Basic2 / Django Models)
 
     * [First Google Slide to Lecture 2](https://docs.google.com/presentation/d/14ooFWwGOvhopJvMG0skvy8S_9FOOoFf-uAHAjMFRTs8/edit?usp=sharing)
-    * [Codes to Lesson 2]()
+    * [Codes to Lesson 2.5](https://github.com/keonsunkim/BlogWorld/tree/62ae820da2ee4b2465b466cf4b8674e587a2547b)
 
 
 ## Acknowledgments
