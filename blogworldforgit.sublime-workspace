@@ -335,7 +335,7 @@
 			"file": "src/Account/models.py",
 			"settings":
 			{
-				"buffer_size": 2944,
+				"buffer_size": 3454,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -344,43 +344,7 @@
 			"file": "src/Post/models.py",
 			"settings":
 			{
-				"buffer_size": 430,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Friend/models.py",
-			"settings":
-			{
-				"buffer_size": 335,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Tag/models.py",
-			"settings":
-			{
-				"buffer_size": 57,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
-			"settings":
-			{
-				"buffer_size": 6771,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/blogworld/settings/base.py",
-			"settings":
-			{
-				"buffer_size": 2686,
+				"buffer_size": 1008,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -443,19 +407,27 @@
 	"expanded_folders":
 	[
 		"/C/Users/keons/dev/blogworldforgit/src",
+		"/C/Users/keons/dev/blogworldforgit/src/Account",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings",
 		"/C/Users/keons/dev/blogworldforgit/src/Friend",
 		"/C/Users/keons/dev/blogworldforgit/src/Post",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag"
 	],
 	"file_history":
 	[
+		"/C/Users/keons/dev/blogworldforgit/src/Post/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Friend/models.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Tag/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Friend/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Tag/models.py",
+		"/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Account/apps.py",
 		"/C/Program Files/PostgreSQL/10/data/postgresql.conf",
 		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
 		"/C/Program Files/PostgreSQL/10/share/psqlrc.sample",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
 		"/C/Users/keons/dev/blogworldforgit/secret.json",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_keonsun.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/secret.json",
@@ -571,17 +543,11 @@
 		"/C/Users/keons/dev/moongomblog/src/backend/Account/managers.py",
 		"/C/Users/keons/dev/moongomblog/src/backend/Account/models.py",
 		"/C/Users/keons/dev/moongomblog/src/backend/Tag/models.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/settings.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/models.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/managers.py",
-		"/C/Users/keons/Desktop/jisun.py",
-		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/urls.py",
-		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/permissions.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/views.py"
+		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/settings.py"
 	],
 	"find":
 	{
-		"height": 60.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -614,7 +580,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -623,15 +589,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2944,
+						"buffer_size": 3454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1663,
-								1675
+								2388,
+								2388
 							]
 						],
 						"settings":
@@ -640,10 +606,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1440.0,
+						"translation.y": 1740.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -652,15 +618,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 430,
+						"buffer_size": 1008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								89,
-								29
+								1008,
+								1008
 							]
 						],
 						"settings":
@@ -669,128 +635,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/Friend/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 335,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								332,
-								332
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 180.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/Tag/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								57,
-								57
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 60.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6771,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5438,
-								5438
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2309.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/blogworld/settings/base.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2686,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								682,
-								682
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1140.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
