@@ -29,7 +29,7 @@ The source code of this project is best served with my lecture materials. I offe
 
     * [First Google Slide to Lecture 1](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
     * [Second Google Slide to Lecture 1](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
-    * [Codes to Lesson 1](https://github.com/keonsunkim/BlogWorld/tree/fa79be897774472d78b128178e0057c3787b17ad/)
+    * [Codes to Lesson 1](https://github.com/keonsunkim/BlogWorld/tree/041814347b4a909fa2409217cbec77af18665adf)
 
 
 
