@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"keyword",
+				"keyword_to_give"
+			],
+			[
+				"k",
+				"keywords"
+			],
+			[
+				"de",
+				"default_mixing_keywords"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
 				"BA",
 				"BASE_DIR"
 			],
@@ -316,19 +332,55 @@
 	"buffers":
 	[
 		{
-			"file": "src/blogworld/settings/locals_keonsun.py",
+			"file": "src/Account/models.py",
 			"settings":
 			{
-				"buffer_size": 911,
+				"buffer_size": 2944,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/secret.json",
+			"file": "src/Post/models.py",
 			"settings":
 			{
-				"buffer_size": 160,
+				"buffer_size": 430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Friend/models.py",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Tag/models.py",
+			"settings":
+			{
+				"buffer_size": 57,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
+			"settings":
+			{
+				"buffer_size": 6771,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogworld/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 2686,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -391,19 +443,31 @@
 	"expanded_folders":
 	[
 		"/C/Users/keons/dev/blogworldforgit/src",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld"
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld",
+		"/C/Users/keons/dev/blogworldforgit/src/Friend",
+		"/C/Users/keons/dev/blogworldforgit/src/Post",
+		"/C/Users/keons/dev/blogworldforgit/src/Tag"
 	],
 	"file_history":
 	[
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/apps.py",
+		"/C/Program Files/PostgreSQL/10/data/postgresql.conf",
+		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
+		"/C/Program Files/PostgreSQL/10/share/psqlrc.sample",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/secret.json",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_keonsun.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/secret.json",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/development.py",
+		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/secret.json",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/secret.json",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/production.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/__init__.py",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_keonsun.py",
 		"/C/Users/keons/dev/blogworldforgit/blogworld/blogworld/settings.py",
 		"/C/Users/keons/dev/blogworldforgit/blogworld/Account/models.py",
-		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_imports.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_5_classinheritance2.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/temp_lecture/pythonclassmaterial/lecture3/ch3_1_6_classinheritance3.py",
@@ -440,13 +504,11 @@
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/descriptors.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/fields.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/constants.py",
-		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/development.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/serializers.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/repeating.csv",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/api sql regex/secrets.json",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/models.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/2018-2/NLP/csv_test_for_twitter_without_bmp_change.csv",
-		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/base.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/models/managers.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Tag/admin.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/Account/views.py",
@@ -515,14 +577,7 @@
 		"/C/Users/keons/Desktop/jisun.py",
 		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/urls.py",
 		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/permissions.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/views.py",
-		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/views.py",
-		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/restframeworkutils/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/handlers.py",
-		"/C/Users/keons/dev/prototype/src/backend/NewsFeed/models.py",
-		"/C/Users/keons/dev/prototype/src/backend/Social/serializers.py",
-		"/C/Users/keons/dev/prototype/src/backend/Account/serializers.py"
+		"/C/Users/keons/dev/prototype/src/backend/Social/views.py"
 	],
 	"find":
 	{
@@ -540,6 +595,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"utf",
+			"MyUser"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -557,24 +614,53 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/blogworld/settings/locals_keonsun.py",
+					"file": "src/Account/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 911,
+						"buffer_size": 2944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								296,
-								296
+								1663,
+								1675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Post/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								29
 							]
 						],
 						"settings":
@@ -586,35 +672,125 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "src/secret.json",
+					"buffer": 2,
+					"file": "src/Friend/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 335,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								129,
-								140
+								332,
+								332
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Tag/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5438,
+								5438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/blogworld/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -701,7 +877,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 75.0,
+	"side_bar_width": 277.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
