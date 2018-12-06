@@ -23,6 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(
 
 ALLOWED_HOSTS = []
 
+AUTH_USER_MODEL = 'Account.User'
+
 
 # Application definition
 

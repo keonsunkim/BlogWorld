@@ -1,7 +1,6 @@
 from django.db import models
 
-from django.contrib.auth.models import
-    BaseUserManager, AbstractBaseUser
+from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 
 
 class UserManager(BaseUserManager):
@@ -68,8 +67,8 @@ class User(AbstractBaseUser):
                        'phone_number', 'last_name', 'first_name']
 
     class Meta:
-        verbose_name = _('user')
-        verbose_name_plural = _('users')
+        verbose_name = 'user'
+        verbose_name_plural = 'users'
 
     def get_full_name(self):
         # The use has a name!
