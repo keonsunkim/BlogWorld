@@ -9,8 +9,10 @@ from django.utils.translation import ugettext_lazy as _
 
 class UserManager(BaseUserManager):
 
-    def create_user(self, email, date_of_birth, phone_number,
-                    last_name, first_name, password=None):
+    def create_user(self, email, representation_name,
+                    date_of_birth, phone_number,
+                    last_name, first_name,
+                    password=None):
         """
         Creates and saves a User with the given email, date of
         birth and password.
@@ -20,6 +22,7 @@ class UserManager(BaseUserManager):
 
         user = self.model(
             email=self.normalize_email(email),
+            representation_name=representation_name,
             date_of_birth=date_of_birth,
             phone_number=phone_number,
             last_name=last_name,
@@ -30,7 +33,8 @@ class UserManager(BaseUserManager):
         user.save(using=self._db)
         return user
 
-    def create_superuser(self, email, date_of_birth, phone_number,
+    def create_superuser(self, email, representation_name,
+                         date_of_birth, phone_number,
                          last_name, first_name, password):
         """
         Creates and saves a superuser with the given email, date of
@@ -38,6 +42,7 @@ class UserManager(BaseUserManager):
         """
         user = self.create_user(
             email,
+            representation_name=representation_name,
             date_of_birth=date_of_birth,
             phone_number=phone_number,
             last_name=last_name,
@@ -50,11 +55,17 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser):
+
     email = models.EmailField(
         verbose_name=_('email address'),
         max_length=255,
         unique=True,
+        db_index=True
     )
+
+    representation_name = models.CharField(verbose_name=_('unique representation name'),
+                                           null=False, blank=False, max_length=30,
+                                           unique=True, db_index=True)
 
     date_of_birth = models.DateField(verbose_name=_('date of birth'),)
     is_active = models.BooleanField(verbose_name=_('is active'),
@@ -73,7 +84,7 @@ class User(AbstractBaseUser):
     objects = UserManager()
 
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['date_of_birth',
+    REQUIRED_FIELDS = ['date_of_birth', 'representation_name',
                        'phone_number', 'last_name', 'first_name']
 
     class Meta:
