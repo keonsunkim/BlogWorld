@@ -4,6 +4,17 @@
 		"selected_items":
 		[
 			[
+<<<<<<< HEAD
+=======
+				"rep",
+				"representation_name"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 				"keyword",
 				"keyword_to_give"
 			],
@@ -332,10 +343,34 @@
 	"buffers":
 	[
 		{
+<<<<<<< HEAD
 			"file": "src/Account/models.py",
 			"settings":
 			{
 				"buffer_size": 2983,
+=======
+			"file": "src/Account/admin.py",
+			"settings":
+			{
+				"buffer_size": 3524,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogworld/settings/locals_keonsun.py",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Profile/urls.py",
+			"settings":
+			{
+				"buffer_size": 251,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -349,10 +384,17 @@
 			}
 		},
 		{
+<<<<<<< HEAD
 			"file": "src/blogworld/settings/base.py",
 			"settings":
 			{
 				"buffer_size": 2650,
+=======
+			"file": "src/Profile/views.py",
+			"settings":
+			{
+				"buffer_size": 1235,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -425,6 +467,7 @@
 	[
 		"/C/Users/keons/dev/blogworldforgit/src",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld",
+<<<<<<< HEAD
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings"
 	],
 	"file_history":
@@ -435,13 +478,31 @@
 		"/C/Users/keons/dev/blogworldforgit/src/Post/models.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Post/views.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Post/urls.py",
+=======
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings",
+		"/C/Users/keons/dev/blogworldforgit/src/Friend"
+	],
+	"file_history":
+	[
+		"/C/Users/keons/dev/blogworldforgit/src/Post/views.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/models.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Profile/views.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/models.py",
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 		"/C/Users/keons/dev/blogworldforgit/src/Post/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Friend/models.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Friend/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/models.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
+<<<<<<< HEAD
 		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
+=======
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 		"/C/Users/keons/dev/blogworldforgit/src/Account/apps.py",
 		"/C/Program Files/PostgreSQL/10/data/postgresql.conf",
 		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
@@ -555,12 +616,16 @@
 		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_list.html",
 		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/templates/Ck_editor/widget.html",
 		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/widgets.py",
+<<<<<<< HEAD
 		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/views.py",
 		"/C/Users/keons/dev/moongomblog/src/backend/Account/validators.py"
+=======
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/views.py"
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 	],
 	"find":
 	{
-		"height": 60.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -574,6 +639,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+<<<<<<< HEAD
+=======
+			"uuid",
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 			"verbose",
 			"verbosee",
 			"utf",
@@ -595,30 +664,78 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 2,
+=======
+			"selected": 1,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 			"sheets":
 			[
 				{
 					"buffer": 0,
+<<<<<<< HEAD
 					"file": "src/Account/models.py",
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 2983,
+=======
+					"file": "src/Account/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3524,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								2030,
 								2030
+=======
+								1397,
+								1397
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1081.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blogworld/settings/locals_keonsun.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 1320.0,
@@ -688,20 +805,34 @@
 					"type": "text"
 				},
 				{
+<<<<<<< HEAD
 					"buffer": 3,
 					"file": "src/Account/admin.py",
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 3512,
+=======
+					"buffer": 2,
+					"file": "src/Profile/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								91,
 								91
+=======
+								63,
+								63
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 							]
 						],
 						"settings":
@@ -710,9 +841,42 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+=======
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Profile/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 					"stack_index": 3,
 					"type": "text"
 				}
@@ -800,7 +964,11 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
 	"side_bar_width": 277.0,
+=======
+	"side_bar_width": 431.0,
+>>>>>>> 9ebaf6f5a88e1988657a1610c2a98cc29235636b
 	"status_bar_visible": true,
 	"template_settings":
 	{

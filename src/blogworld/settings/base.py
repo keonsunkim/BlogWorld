@@ -25,7 +25,6 @@ ALLOWED_HOSTS = []
 
 AUTH_USER_MODEL = 'Account.User'
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -36,6 +35,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Account',
+    'Friend',
+    'Post',
+    'Tag',
 ]
 
 MIDDLEWARE = [

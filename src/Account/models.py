@@ -1,12 +1,14 @@
 from django.db import models
 
-from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
+from django.utils.translation import ugettext_lazy as _
 
 
 class UserManager(BaseUserManager):
 
-    def create_user(self, email, date_of_birth, phone_number,
-                    last_name, first_name, password=None):
+    def create_user(self, email, representation_name,
+                    date_of_birth, phone_number,
+                    last_name, first_name,
+                    password=None):
         """
         Creates and saves a User with the given email, date of
         birth and password.
@@ -16,6 +18,7 @@ class UserManager(BaseUserManager):
 
         user = self.model(
             email=self.normalize_email(email),
+            representation_name=representation_name,
             date_of_birth=date_of_birth,
             phone_number=phone_number,
             last_name=last_name,
@@ -26,7 +29,8 @@ class UserManager(BaseUserManager):
         user.save(using=self._db)
         return user
 
-    def create_superuser(self, email, date_of_birth, phone_number,
+    def create_superuser(self, email, representation_name,
+                         date_of_birth, phone_number,
                          last_name, first_name, password):
         """
         Creates and saves a superuser with the given email, date of
@@ -34,6 +38,7 @@ class UserManager(BaseUserManager):
         """
         user = self.create_user(
             email,
+            representation_name=representation_name,
             date_of_birth=date_of_birth,
             phone_number=phone_number,
             last_name=last_name,
@@ -46,29 +51,42 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser):
+
     email = models.EmailField(
+        verbose_name=_('email address'),
         max_length=255,
         unique=True,
+        db_index=True
     )
 
-    date_of_birth = models.DateField()
-    is_active = models.BooleanField(default=True)
-    is_admin = models.BooleanField(default=False)
+    representation_name = models.CharField(verbose_name=_('unique representation name'),
+                                           null=False, blank=False, max_length=30,
+                                           unique=True, db_index=True)
 
-    phone_number = models.IntegerField(null=False, blank=False)
+    date_of_birth = models.DateField(verbose_name=_('date of birth'),)
+    is_active = models.BooleanField(verbose_name=_('is active'),
+                                    default=True)
+    is_admin = models.BooleanField(verbose_name=_('is admin'),
+                                   default=False)
 
-    last_name = models.CharField(null=False, blank=False, max_length=30)
-    first_name = models.CharField(null=False, blank=False, max_length=30)
+    phone_number = models.IntegerField(verbose_name=_('phone number'),
+                                       null=False, blank=False)
+
+    last_name = models.CharField(verbose_name=_('family name'),
+                                 null=False, blank=False, max_length=30)
+    first_name = models.CharField(verbose_name=_('first name'),
+                                  null=False, blank=False, max_length=30)
 
     objects = UserManager()
 
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['date_of_birth',
+
+    REQUIRED_FIELDS = ['date_of_birth', 'representation_name',
                        'phone_number', 'last_name', 'first_name']
 
     class Meta:
-        verbose_name = 'user'
-        verbose_name_plural = 'users'
+        verbose_name = _('user')
+        verbose_name_plural = _('users')
 
     def get_full_name(self):
         # The use has a name!
