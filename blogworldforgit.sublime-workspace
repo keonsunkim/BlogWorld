@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"rep",
+				"representation_name"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
 				"keyword",
 				"keyword_to_give"
 			],
@@ -332,19 +340,36 @@
 	"buffers":
 	[
 		{
-			"file": "src/Account/models.py",
+			"file": "src/Account/admin.py",
 			"settings":
 			{
-				"buffer_size": 3454,
+				"buffer_size": 3524,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogworld/settings/locals_keonsun.py",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Profile/urls.py",
+			"settings":
+			{
+				"buffer_size": 251,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/Post/models.py",
+			"file": "src/Profile/views.py",
 			"settings":
 			{
-				"buffer_size": 1008,
+				"buffer_size": 1235,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -407,23 +432,26 @@
 	"expanded_folders":
 	[
 		"/C/Users/keons/dev/blogworldforgit/src",
-		"/C/Users/keons/dev/blogworldforgit/src/Account",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings",
-		"/C/Users/keons/dev/blogworldforgit/src/Friend",
-		"/C/Users/keons/dev/blogworldforgit/src/Post",
-		"/C/Users/keons/dev/blogworldforgit/src/Tag"
+		"/C/Users/keons/dev/blogworldforgit/src/Friend"
 	],
 	"file_history":
 	[
-		"/C/Users/keons/dev/blogworldforgit/src/Post/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/views.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/models.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Profile/views.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/models.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Friend/models.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Friend/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/models.py",
 		"/C/Users/keons/Desktop/GoogleSnyced/외주작업/webscraping/PythonScraper.py",
-		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Account/apps.py",
 		"/C/Program Files/PostgreSQL/10/data/postgresql.conf",
 		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
@@ -537,13 +565,7 @@
 		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_list.html",
 		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/templates/Ck_editor/widget.html",
 		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/widgets.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/views.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/validators.py",
-		"/C/Users/keons/Documents/카카오톡 받은 파일/데이터의 외출.pptx",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/managers.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/models.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Tag/models.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/settings.py"
+		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/views.py"
 	],
 	"find":
 	{
@@ -561,6 +583,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"uuid",
+			"verbose",
+			"verbosee",
 			"utf",
 			"MyUser"
 		],
@@ -585,28 +610,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/Account/models.py",
+					"file": "src/Account/admin.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3454,
+						"buffer_size": 3524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2388,
-								2388
+								1397,
+								1397
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1740.0,
+						"translation.y": 1081.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -614,19 +640,49 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/Post/models.py",
-					"semi_transient": false,
+					"file": "src/blogworld/settings/locals_keonsun.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1008,
+						"buffer_size": 940,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1008,
-								1008
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Profile/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
 							]
 						],
 						"settings":
@@ -635,10 +691,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 120.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Profile/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -646,7 +732,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -725,7 +811,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 277.0,
+	"side_bar_width": 431.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
