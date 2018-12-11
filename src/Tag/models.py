@@ -14,6 +14,9 @@ class FilterTag(models.Model):
         verbose_name = _('filter tag')
         verbose_name_plural = _('filter tags')
 
+    def __str__(self):
+        return f'{self.slug}'
+
 
 class FilterTagRelation(models.Model):
     filter_tag = models.ForeignKey(
@@ -25,3 +28,6 @@ class FilterTagRelation(models.Model):
     class Meta:
         verbose_name = _('filter tag relation')
         verbose_name_plural = _('filter tag relations')
+
+    def __str__(self):
+        return f'{self.filter_tag} : {self.general_post}'

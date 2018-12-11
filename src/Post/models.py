@@ -4,7 +4,6 @@ from django.conf import settings
 from django.utils.translation import ugettext_lazy as _
 
 # for translation
-
 User = settings.AUTH_USER_MODEL
 
 
