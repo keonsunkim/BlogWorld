@@ -5,21 +5,7 @@ from django.http import HttpResponse, Http404
 
 
 def example_view(request):
-    print('request')
-    print(request)
-    print('*' * 20)
-    print('request.method')
-    print(request.method)
-    print('*' * 20)
-    print('request.body')
-    print(request.body)
-    print('*' * 20)
-    print('request.path')
-    print(request.path)
-    print('*' * 20)
-    print('request.cookies')
-    print(request.COOKIES)
-    print('*' * 20)
-    print('request.meta')
-    print(request.META)
-    return HttpResponse(f'<h1> Hi!!! </h1>')
+    if request.COOKIES:
+        return HttpResponse(f'<h1> Hi!!! </h1>')
+    else:
+        raise Http404('you do not have cookies go away')
