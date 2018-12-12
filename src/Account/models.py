@@ -2,6 +2,10 @@ from django.db import models
 
 from django.utils.translation import ugettext_lazy as _
 
+from django.contrib.auth.models import (
+    BaseUserManager, AbstractBaseUser
+)
+
 
 from django.contrib.auth.models import (
     BaseUserManager, AbstractBaseUser
@@ -19,7 +23,7 @@ class UserManager(BaseUserManager):
         birth and password.
         """
         if not email:
-            raise ValueError('Users must have an email address')
+            raise ValueError_('Users must have an email address')
 
         user = self.model(
             email=self.normalize_email(email),

@@ -6,7 +6,7 @@ from django.utils.translation import ugettext_lazy as _
 class FilterTag(models.Model):
     slug = models.SlugField(verbose_name=_('tag slug'),
                             unique=True, max_length=35)
-    word = models.CharField(verbose_name=_('tag word'),
+    name = models.CharField(verbose_name=_('tag name'),
                             max_length=35)
     created_at = models.DateTimeField(auto_now_add=False)
 

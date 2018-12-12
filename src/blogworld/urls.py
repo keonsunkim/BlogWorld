@@ -16,6 +16,14 @@ Including another URLconf
 from django.conf.urls import include, url
 from django.contrib import admin
 
+from djangoviews.views import example_view
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+<<<<<<< HEAD
+=======
+    url(r'^seehowdjangoviewswork/', example_view),
+    url(r'^posts/', include('Post.urls', namespace='posts')),
+    url(r'^user/', include('Profile.urls', namespace='profiles'))
+>>>>>>> todelete
 ]
