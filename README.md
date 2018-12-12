@@ -34,8 +34,11 @@ The source code of this project is best served with my lecture materials. I offe
 * **Lecture 2** (Basic2 / Django Models)
 
     * [First Google Slide to Lecture 2](https://docs.google.com/presentation/d/14ooFWwGOvhopJvMG0skvy8S_9FOOoFf-uAHAjMFRTs8/edit?usp=sharing)
-    * [Codes to Lesson 2.5](https://github.com/keonsunkim/BlogWorld/tree/62ae820da2ee4b2465b466cf4b8674e587a2547b)
+    * [Codes to First Slide of Lesson 2](https://github.com/keonsunkim/BlogWorld/tree/62ae820da2ee4b2465b466cf4b8674e587a2547b)
     * [Second Google Slide to Lecture 2](https://docs.google.com/presentation/d/1b6q3rtMNOqKkuJIjbV_JZ9XdtTGjaWfg9ymADbeOh4M/edit?usp=sharing)
+    * [Codes to Second Slide of Lesson 2](https://github.com/keonsunkim/BlogWorld/tree/93650e653e5934f03b9a630fb03b8c87cc2aa1e5)
+    
+
    
     
  * **Lecture 3** (Basic3 / Django Views)
