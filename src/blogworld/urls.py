@@ -21,7 +21,10 @@ from djangoviews.views import example_view
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> todelete
     url(r'^seehowdjangoviewswork/', example_view),
     url(r'^posts/', include('Post.urls', namespace='posts')),
     url(r'^user/', include('Profile.urls', namespace='profiles'))
