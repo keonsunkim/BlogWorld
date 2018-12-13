@@ -48,7 +48,9 @@ The source code of this project is best served with my lecture materials. I offe
     * [First Google Slide to Lecture 3](https://docs.google.com/presentation/d/1f-_UCik0qLfs_AUnj-0CwOQvspqAGYlISlASsWk7nC0/edit?usp=sharing)
     * [Codes to First Slide of Lecture 3](https://github.com/keonsunkim/BlogWorld/tree/96979339c53ba77e23f713c38497c3feb5d2ff81)
     
+ * **Lecture 4** (Basic4 / Django Templates)
 
+    * [First Google Slide to Lecture 4](https://docs.google.com/presentation/d/1yPSH1UTuKpmfg-weB-uwvdOKAdpIP6wvkv1I4nz5-WA/edit?usp=sharing)
 
 ## Acknowledgments
 
