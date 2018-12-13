@@ -6,14 +6,6 @@ from django.contrib.auth.models import (
     BaseUserManager, AbstractBaseUser
 )
 
-<<<<<<< HEAD
-
-from django.contrib.auth.models import (
-    BaseUserManager, AbstractBaseUser
-)
-
-=======
->>>>>>> todelete
 
 class UserManager(BaseUserManager):
 
