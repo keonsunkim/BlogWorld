@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"home",
+				"homepage_view"
+			],
+			[
+				"ho",
+				"homepage_view"
+			],
+			[
 				"filter",
 				"filter_tag"
 			],
@@ -340,28 +356,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/blogworld/urls.py",
+			"file": "src/blogworld/settings/base.py",
 			"settings":
 			{
-				"buffer_size": 998,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/Post/urls.py",
-			"settings":
-			{
-				"buffer_size": 169,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/Tag/models.py",
-			"settings":
-			{
-				"buffer_size": 1026,
+				"buffer_size": 2606,
 				"line_ending": "Unix"
 			}
 		}
@@ -422,24 +420,36 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/keons/dev/blogworldforgit/src",
-		"/C/Users/keons/dev/blogworldforgit/src/Account",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld",
-		"/C/Users/keons/dev/blogworldforgit/src/Post",
-		"/C/Users/keons/dev/blogworldforgit/src/Tag"
+		"/C/Users/keons/dev/blogworldforgit/src"
 	],
 	"file_history":
 	[
+		"/C/Users/keons/Desktop/testwithcss.html",
+		"/C/Users/keons/dev/blogworldforgit/src/templates/home/ourpage.html",
+		"/C/Users/keons/dev/blogworldforgit/src/static/css/base.css",
+		"/C/Users/keons/dev/blogworldforgit/src/templates/base.html",
 		"/C/Users/keons/dev/blogworldforgit/src/Post/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/serializers.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Post/views.py",
+		"/C/Users/keons/dev/blogworldforgit/secret.json",
+		"/C/Users/keons/Desktop/소스코드용 폴더/ex_total.csv",
+		"/C/Users/keons/Desktop/test.html",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/models.py",
+		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/urls.py",
+		"/C/Users/keons/dev/blogworldforgit/src/static/css/normalized.css",
+		"/C/Users/keons/dev/blogworldforgit/src/static/css/main.css",
+		"/C/Users/keons/Desktop/form.html",
+		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
+		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/static/css/base.css",
+		"/C/Users/keons/dev/blogworldforgit/src/static/static/css/base.css",
+		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/views.py",
+		"/C/Users/keons/dev/blogworldforgit/src/templates/ourpage.html",
+		"/C/Users/keons/dev/blogworldforgit/src/ourpage.html",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/models.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Post/models.py",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/urls.py",
-		"/C/Users/keons/dev/blogworldforgit/src/Account/admin.py",
-		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/views.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Account/migrations/0001_initial.py",
-		"/C/Users/keons/dev/blogworldforgit/src/Account/models.py",
-		"/C/Users/keons/dev/blogworldforgit/src/Post/views.py",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/base.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Profile/views.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Profile/urls.py",
 		"/C/Users/keons/dev/blogworldforgit/src/Post/admin.py",
@@ -451,14 +461,12 @@
 		"/C/Program Files/PostgreSQL/10/data/postgresql.conf",
 		"/C/Program Files/PostgreSQL/10/data/pg_hba.conf",
 		"/C/Program Files/PostgreSQL/10/share/psqlrc.sample",
-		"/C/Users/keons/dev/blogworldforgit/secret.json",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_keonsun.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/secret.json",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/development.py",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/plather/settings/base.py",
 		"/C/Users/keons/dev/blogworldforgit/src/secret.json",
 		"/C/Users/keons/dev/theorbit/backend/theorbit/secret.json",
-		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/production.py",
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/__init__.py",
 		"/C/Users/keons/dev/blogworldforgit/blogworld/blogworld/settings.py",
@@ -543,25 +551,11 @@
 		"/C/Users/keons/Desktop/재미로 만드는 파이선/Socket/socket.py",
 		"/C/Users/keons/dev/plather/src/backend/manage.py",
 		"/C/Users/keons/dev/questtour/src/backend/Quest/apps.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/models.py",
-		"/C/Users/keons/dev/questtour/src/backend/Quest/utils.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/managers.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/admin.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/forms.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/utils.py",
-		"/C/Users/keons/dev/questtour/src/backend/Account/validators.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/admin.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/forms.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Post/models.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Account/utils.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Ck_editor/fields.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/moonblog/wsgi.py",
-		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_create.html",
-		"/C/Users/keons/dev/moongomblog/src/backend/Post/templates/Post/post_list.html"
+		"/C/Users/keons/dev/questtour/src/backend/Account/models.py"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -575,6 +569,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font",
+			"header",
+			"static",
+			"fixed",
+			"inline",
+			"footer",
+			"color",
+			"header",
+			"h1",
 			"uuid",
 			"verbose",
 			"verbosee",
@@ -597,75 +600,16 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/blogworld/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 998,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								995,
-								995
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/Post/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								166,
-								166
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/Tag/models.py",
+					"file": "src/blogworld/settings/base.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1026,
+						"buffer_size": 2606,
 						"regions":
 						{
 						},
@@ -683,7 +627,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -694,7 +638,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -735,7 +679,7 @@
 	"project": "blogworldforgit.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -773,7 +717,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 351.0,
+	"side_bar_width": 161.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

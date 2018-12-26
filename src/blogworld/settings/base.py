@@ -17,10 +17,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))))
 
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
-
-
 ALLOWED_HOSTS = []
 
 AUTH_USER_MODEL = 'Account.User'
@@ -38,7 +34,8 @@ INSTALLED_APPS = [
     'Friend',
     'Post',
     'Tag',
-    'djangoviews'
+    'djangoviews',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -56,7 +53,7 @@ ROOT_URLCONF = 'blogworld.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR), 'templates'],
+        'DIRS': [os.path.abspath(os.path.join(BASE_DIR, "templates"))],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
