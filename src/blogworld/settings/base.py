@@ -35,7 +35,6 @@ INSTALLED_APPS = [
     'Post',
     'Tag',
     'djangoviews',
-    'rest_framework',
 ]
 
 MIDDLEWARE = [

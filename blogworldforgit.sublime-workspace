@@ -359,7 +359,8 @@
 			"file": "src/blogworld/settings/base.py",
 			"settings":
 			{
-				"buffer_size": 2606,
+				"buffer_size": 2584,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -425,6 +426,7 @@
 	"file_history":
 	[
 		"/C/Users/keons/Desktop/testwithcss.html",
+		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/views.py",
 		"/C/Users/keons/dev/blogworldforgit/src/templates/home/ourpage.html",
 		"/C/Users/keons/dev/blogworldforgit/src/static/css/base.css",
 		"/C/Users/keons/dev/blogworldforgit/src/templates/base.html",
@@ -444,7 +446,6 @@
 		"/C/Users/keons/dev/blogworldforgit/src/blogworld/settings/locals_base.py",
 		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/static/css/base.css",
 		"/C/Users/keons/dev/blogworldforgit/src/static/static/css/base.css",
-		"/C/Users/keons/dev/blogworldforgit/src/djangoviews/views.py",
 		"/C/Users/keons/dev/blogworldforgit/src/templates/ourpage.html",
 		"/C/Users/keons/dev/blogworldforgit/src/ourpage.html",
 		"/C/Users/keons/dev/blogworldforgit/src/Tag/models.py",
@@ -606,18 +607,18 @@
 				{
 					"buffer": 0,
 					"file": "src/blogworld/settings/base.py",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2606,
+						"buffer_size": 2584,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								847,
+								847
 							]
 						],
 						"settings":
@@ -627,7 +628,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 540.0,
+						"translation.y": 450.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
