@@ -29,28 +29,20 @@ Will be added in a weekly basis
 
 The source code of this project is best served with my lecture materials. I offer access to my lecture materials in the following links.
 
-* **Lecture 1** (Basic1 / Setting up and Configuring Django)
 
-    * [First Google Slide to Lecture 1](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
-    * [Second Google Slide to Lecture 1](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
-    * [Codes to Lesson 1](https://github.com/keonsunkim/BlogWorld/tree/041814347b4a909fa2409217cbec77af18665adf)
-
-* **Lecture 2** (Basic2 / Django Models)
-
-    * [First Google Slide to Lecture 2](https://docs.google.com/presentation/d/14ooFWwGOvhopJvMG0skvy8S_9FOOoFf-uAHAjMFRTs8/edit?usp=sharing)
-    * [Codes to First Slide of Lecture 2](https://github.com/keonsunkim/BlogWorld/tree/62ae820da2ee4b2465b466cf4b8674e587a2547b)
-    * [Second Google Slide to Lecture 2](https://docs.google.com/presentation/d/1b6q3rtMNOqKkuJIjbV_JZ9XdtTGjaWfg9ymADbeOh4M/edit?usp=sharing)
-    * [Codes to Second Slide of Lecture 2](https://github.com/keonsunkim/BlogWorld/tree/93650e653e5934f03b9a630fb03b8c87cc2aa1e5)
-    
-    
- * **Lecture 3** (Basic3 / Django Views)
-
-    * [First Google Slide to Lecture 3](https://docs.google.com/presentation/d/1f-_UCik0qLfs_AUnj-0CwOQvspqAGYlISlASsWk7nC0/edit?usp=sharing)
-    * [Codes to First Slide of Lecture 3](https://github.com/keonsunkim/BlogWorld/tree/96979339c53ba77e23f713c38497c3feb5d2ff81)
-    
- * **Lecture 4** (Basic4 / Django Templates)
-
-    * [First Google Slide to Lecture 4](https://docs.google.com/presentation/d/1yPSH1UTuKpmfg-weB-uwvdOKAdpIP6wvkv1I4nz5-WA/edit?usp=sharing)
+ * [1 Setting up and Configuring Django 1](https://docs.google.com/presentation/d/1YstMmQlDO0SCuppMOvR2Y6swPom2513f6vxvc6JvJgs/edit?usp=sharing/)
+ * [2 Setting up and Configuring Django 2](https://docs.google.com/presentation/d/13DCnpBd64KLlCctU2ZOA8puwJqtMMOzdRou_DYGpmZo/edit?usp=sharing/)
+    * [Codes to Lesson 1, 2](https://github.com/keonsunkim/BlogWorld/tree/041814347b4a909fa2409217cbec77af18665adf)
+ * [3 Django Models Basic 1](https://docs.google.com/presentation/d/14ooFWwGOvhopJvMG0skvy8S_9FOOoFf-uAHAjMFRTs8/edit?usp=sharing)
+   * [Codes to Lesson 3](https://github.com/keonsunkim/BlogWorld/tree/62ae820da2ee4b2465b466cf4b8674e587a2547b)
+ * [4 Django Models Basic 2](https://docs.google.com/presentation/d/1b6q3rtMNOqKkuJIjbV_JZ9XdtTGjaWfg9ymADbeOh4M/edit?usp=sharing)
+   * [Codes to Lesson 4](https://github.com/keonsunkim/BlogWorld/tree/93650e653e5934f03b9a630fb03b8c87cc2aa1e5)
+ * [4.5 Django Views Basic 1](https://drive.google.com/open?id=1JU4I4kYPSLl2KNPw8m6I7vRf2jjMIlnHgk93vVNORbs)
+ * [5 Django Queryset Basic 1](https://drive.google.com/open?id=1gHJjvNLIfDE2FviSV0krQYh40gPOncGoOdgYNuZ0WLw)
+ * [6 Django Views Basic 1](https://drive.google.com/open?id=1gHJjvNLIfDE2FviSV0krQYh40gPOncGoOdgYNuZ0WLw)
+   * [Codes to Lesson 6](https://github.com/keonsunkim/BlogWorld/tree/96979339c53ba77e23f713c38497c3feb5d2ff81)
+ * [7 HTML and CSS Basics 1](https://drive.google.com/open?id=1yPSH1UTuKpmfg-weB-uwvdOKAdpIP6wvkv1I4nz5-WA)
+ * [8 HTML and CSS Basics 2](https://drive.google.com/open?id=1cHlLCEZof4jih1MBHUfVTLaFL7A78qDa5TuUStaDwhw) 
 
 ## Acknowledgments
 
