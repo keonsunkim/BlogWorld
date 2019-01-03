@@ -43,7 +43,7 @@ The source code of this project is best served with my lecture materials. I offe
    * [Codes to Lesson 6](https://github.com/keonsunkim/BlogWorld/tree/96979339c53ba77e23f713c38497c3feb5d2ff81)
  * [7 HTML and CSS Basics 1](https://drive.google.com/open?id=1yPSH1UTuKpmfg-weB-uwvdOKAdpIP6wvkv1I4nz5-WA)
  * [8 HTML and CSS Basics 2](https://drive.google.com/open?id=1cHlLCEZof4jih1MBHUfVTLaFL7A78qDa5TuUStaDwhw) 
-
+ * [9 Django Template Basics 1](https://drive.google.com/open?id=1-GPFbcC1MbMhlqlr0pWWLu47zOzk2RGsZOhgI69tPdw) 
 ## Acknowledgments
 
 The materials for this course have been inspired from:
