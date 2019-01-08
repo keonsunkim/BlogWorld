@@ -44,6 +44,8 @@ The source code of this project is best served with my lecture materials. I offe
  * [7 HTML and CSS Basics 1](https://drive.google.com/open?id=1yPSH1UTuKpmfg-weB-uwvdOKAdpIP6wvkv1I4nz5-WA)
  * [8 HTML and CSS Basics 2](https://drive.google.com/open?id=1cHlLCEZof4jih1MBHUfVTLaFL7A78qDa5TuUStaDwhw) 
  * [9 Django Template Basics 1](https://drive.google.com/open?id=1-GPFbcC1MbMhlqlr0pWWLu47zOzk2RGsZOhgI69tPdw) 
+ * [10 Django Url Basics](https://drive.google.com/open?id=1ttsBBVc3DY-src0pnA9s-d28Y5dlF7EbCNtqVzJVFYc)
+ * [11 Django Views Basics 2](https://drive.google.com/open?id=1bbJ2oxCWgTnQ54Fyu8NsSDVjbSsWR1VPhCgnRupPv8Y)
 ## Acknowledgments
 
 The materials for this course have been inspired from:
