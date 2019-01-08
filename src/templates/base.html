@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!-- Template by quackit.com -->	
+{% load static %}
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html"; charset="UTF-8">
+
+	<title>
+		{% block title %} {% endblock title %}
+	</title>
+
+	{% block stylesheets %}
+	<link href="{% static 'css/normalized.css' %}" rel="stylesheet" type="text/css" />
+	<link href="{% static 'css/base.css' %}" rel="stylesheet" type="text/css" />
+	{% endblock stylesheets %}
+
+</head>
+
+<body>
+
+	<div id = "top-fixed">
+		{% block web_header %}
+		<div class="header"> 
+			<ul>
+				<li><a href="/blog">Blogworld: YourPlayground</a></li>
+				<li> This is Me! </li>
+				<div class="logged-in-menu">
+					<li><a href="http://127.0.0.1:8000/login/">Login</a></li>
+				</div>
+			</ul>
+		</div>
+		{% endblock web_header %}
+
+		{% block horizontal_nav_bar %}
+		<ul class="horizontal-global-nav-bar">
+			<li class="global-nav-bar-left"> <a href="http://127.0.0.1:8000/home/"> Search </a></li>
+				<form action="/searchq?=" method="get">
+					<input type="text" name="search"/>
+				</form>
+			<li class="global-nav-bar-right"> <a href="http://127.0.0.1:8000/myprofile/"> My Page </a></li>
+			<li class="global-nav-bar-right"> <a href="http://127.0.0.1:8000/contact/"> Contact </a></li>
+			<li class="global-nav-bar-right"> <a href="http://127.0.0.1:8000/about/"> About </a></li>
+		</ul>
+		{% endblock horizontal_nav_bar %}
+	</div>
+
+	<div middle-content>
+		<div class="vertical-nav-bar-area">
+			<ul class="vertical-global-nav-bar">
+				<li> <a href="http://127.0.0.1:8000/user/"> User Name </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/profile/"> About User </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/portoflio/"> Portfolios </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/posts/"> Posts </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/friends/"> Friends </a></li>
+			</ul>
+		</div>
+		{% block content %}
+
+		{% endblock %}
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}
+Welcome!
+{% endblock %}
+
+
+{% block content%}
+
+
+    <div class="content-area">
+		<div class="filter-bar">
+			<ul>
+				<li> <a href="http://127.0.0.1:8000/user/"> All </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/profile/"> Map </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/portoflio/"> Photos </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/posts/"> More </a></li>
+				<li> <a href="http://127.0.0.1:8000/user/search/"> Search in Results </a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="content-list-area">
+		<div class="content-element">
+			<ul class="content-list">
+				<li><h3> First result </h3></li>
+				<li><a href=#> http://127.0.0.1:8000/somelink... </a></li>
+				<li><p> {% lorem %} </p></li>
+			</ul>
+		</div>
+		<div class="content-element">
+			<ul class="content-list">
+				<li><h3> Second result </h3></li>
+				<li><a href=#> http://127.0.0.1:8000/somelink... </a></li>
+				<li><p> {% lorem %} </p></li>
+			</ul>
+		</div>
+	</div>
+
+{% endblock %}

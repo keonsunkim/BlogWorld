@@ -1,0 +1,145 @@
+body {
+	margin: auto;
+	max-width: 90%;
+}
+
+.header{
+	font-size: large;
+	padding-top: 30px;
+	padding-bottom: 5px;
+	padding-left: 40px;
+	/*background: #e57373;*/
+	/*padding-left: 80px;*/
+	border-bottom: 1px solid #bbb;
+	color: red;
+	
+}
+
+.header ul {
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.header ul li {
+	color:black;
+}
+
+.header ul li a{
+	text-decoration: none;
+	/*color: red; */
+}
+
+div.logged-in-menu {
+	float: right; 
+	padding-right: 20px; 
+	font-size: small;"
+}
+
+
+.horizontal-global-nav-bar input[type=text] {
+	float: left;
+	padding: 6px;
+	margin-right: 16px;
+	font-size: 17px;
+}
+
+ul.horizontal-global-nav-bar {
+	position: relative;
+	list-style-type: none;
+	margin: 0;
+	padding: 15px;
+	overflow: hidden;
+	border-bottom: 1px solid #bbb;
+	/*background-color: #111;*/
+}
+
+ul.horizontal-global-nav-bar li:hover {
+  background-color: #555;
+  color: white;
+}
+
+ul.horizontal-global-nav-bar li {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 8px 8px;
+}
+
+ul.horizontal-global-nav-bar li a{
+	text-decoration: none;
+	color: black;
+}
+
+li.global-nav-bar-left {
+	float: left;
+}
+
+li.global-nav-bar-right {
+	float: right;
+}
+
+
+div.middle-content {
+}
+
+div.vertical-nav-bar-area {
+	float: left;
+	width: 15%;
+	overflow: hidden;
+	border-right: 1px solid #bbb;
+	text-align: left;
+	margin-top: 4%;
+	/*border-left: 1px solid #bbb;*/
+
+}
+
+div.vertical-nav-bar-area ul {
+	list-style-type: none;
+	color: black;
+	padding-left: 0px;
+	/*background-color: #f1f1f1;*/		
+}
+
+div.vertical-nav-bar-area ul li:hover {
+  background-color: #555;
+  color: white;
+}
+
+div.vertical-nav-bar-area ul li:active {
+  background-color: #555;
+  color: white;
+}
+
+div.vertical-nav-bar-area ul li a {
+	display: block;
+	/*background-color: #bdbdbd;*/
+	padding: 10px 10px;
+	text-decoration: none;
+	color: black;
+}
+
+div.content-area {
+	float: right;
+	color: black;
+	margin-left: 3%;
+	width: 81%;
+	border-bottom: 1px solid #bbb;
+}
+
+div.filter-bar ul {
+	list-style-type: none;
+	overflow: hidden;
+	font-size: small;
+	padding-left: 0px;
+}
+
+div.filter-bar ul li {
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+div.filter-bar ul li a {
+	color: black;
+	text-decoration: none;
+}
